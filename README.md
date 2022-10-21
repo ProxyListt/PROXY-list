@@ -1,7 +1,7 @@
 # PROXY-list
 ***Daftar Proxy Publik Gratis yang Dihapus. DIPERBARUI SECARA TERATUR***
 
-# DOWNLOAD
+<h3 align="left">Download</h3>
 
 <h3 align="left">Socks5</h3>
 
