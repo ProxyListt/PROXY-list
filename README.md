@@ -5,7 +5,7 @@
 
 <h3 align="left">Socks5</h3>
 
-- ***https://raw.githubusercontent.com/ProxyListt/PROXY-list/main/http.txt***
+- ***https://raw.githubusercontent.com/ProxyListt/PROXY-list/main/socks5.txt***
 <h3 align="left">Socks4</h3>
 
 - ***https://raw.githubusercontent.com/ProxyListt/PROXY-list/main/socks4.txt***
