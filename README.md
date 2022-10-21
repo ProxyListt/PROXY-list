@@ -14,6 +14,10 @@
 
 - ***https://raw.githubusercontent.com/ProxyListt/PROXY-list/main/http.txt***
 
+<h3 align="left">Spesial 50.000 proxy</h3>
+
+- ***https://raw.githubusercontent.com/ProxyListt/PROXY-list/main/socks5.txt***
+
 <h3 align="left">Catatan</h3>
 
 ***Ini Hanya Untuk Tujuan Pendidikan. Baik Saya Mengatakan Atau Saya Mempromosikan Untuk Melakukan Sesuatu yang Ilegal.***
