@@ -16,7 +16,7 @@
 
 <h3 align="left">Spesial 50.000 proxy</h3>
 
-- ***https://raw.githubusercontent.com/ProxyListt/PROXY-list/main/socks5.txt***
+- ***https://raw.githubusercontent.com/ProxyListt/PROXY-list/main/spesial50k.txt***
 
 <h3 align="left">Catatan</h3>
 
